@@ -27,11 +27,13 @@ I'm a CS undergrad at **IIT Patna** who builds production Android apps — not j
 
 ---
 
-## 🚀 Flagship Project
+## 🚀 Featured Projects
+
+### 📱 NSS IITP Official App
 
 <div align="center">
 
-| | **NSS IITP Official App** |
+| | |
 |---|---|
 | 📦 **Stack** | Kotlin · Jetpack Compose · Firebase · Node.js · Python |
 | 🔒 **Security** | Play Integrity API → ECDSA Binding → Challenge-Response → GPS Geofence |
@@ -45,6 +47,29 @@ I'm a CS undergrad at **IIT Patna** who builds production Android apps — not j
 [![Play Store](https://img.shields.io/badge/Download%20on%20Google%20Play-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.phad.chatapp)
 [![Showcase](https://img.shields.io/badge/📸%20Live%20Showcase-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nss-app-showcase.vercel.app)
 [![Repo](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NSS-IITP-Official-App-Ecosystem/NSS-IITP-Official-App)
+
+</div>
+
+---
+
+### 🚖 CabShare
+
+> Ride-sharing app for IIT Patna students — find cab partners to Patna Junction, Airport & Bihta Station
+
+<div align="center">
+
+| | |
+|---|---|
+| 📦 **Stack** | Kotlin · Jetpack Compose · Firebase · Microsoft Azure MSAL |
+| 🔐 **Auth** | Microsoft MSAL — restricted to `@iitp.ac.in` institutional email |
+| ⚡ **Features** | Real-time ride matching · In-ride chat · Request/approval system · Ride history |
+| 🔄 **Background** | WorkManager for automatic cleanup of past rides |
+
+</div>
+
+<div align="center">
+
+[![Repo](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EshanBhaskar/CabShare)
 
 </div>
 
