@@ -90,19 +90,7 @@ I'm a CS undergrad at **IIT Patna** who builds production Android apps — not j
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=EshanBhaskar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="175"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EshanBhaskar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="175"/>
-
-</div>
-
-<div align="center">
 <img src="https://streak-stats.demolab.com/?user=EshanBhaskar&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="65%"/>
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=EshanBhaskar&theme=tokyonight&no-frame=true&column=6&margin-w=8" width="100%"/>
 </div>
 
 ---
